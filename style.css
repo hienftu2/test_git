@@ -6,3 +6,8 @@
 .box{
     display: flex;
 }
+
+.hien{
+    padding: 0;
+}
+
