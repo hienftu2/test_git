@@ -1,8 +1,12 @@
-.container{
-    margin: 0 auto;
-    max-width: 1100px;
+.container {
+  margin: 0 auto;
+  max-width: 1100px;
 }
 
-.box{
-    display: flex;
+.box {
+  display: flex;
+}
+
+.donga {
+  border: 1px solid;
 }
